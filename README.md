@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LiliaSolis
-- 👀 I’m interested in Data Analytics and Data Science
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Business Analysis Projects
+- 👀 I’m interested in QA Engineering
+- 🌱 I’m currently improving my skills in as a QA Engineer
+- 💞️ I’m looking to collaborate in projects as a Software Tester
 - 📫 How to reach me liliadata7@gmail.com
 
 <!---
